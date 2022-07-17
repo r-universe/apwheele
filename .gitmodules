@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ptools"]
+	path = ptools
+	url = https://github.com/apwheele/ptools
+	shallow = true
+	registered = true
